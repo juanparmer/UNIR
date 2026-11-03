@@ -11,8 +11,8 @@
     },
     {
       "ruta": "ENTREGA.md",
-      "sha256": "6a0ff61120172e8901221eb277315fc0fb9f3fc4e30dfa8924cefcdf8371bd34",
-      "bytes": 1467
+      "sha256": "d785cea929200f76af9ed8de01948fa027508764b62761640f49244065459477",
+      "bytes": 1501
     },
     {
       "ruta": "LICENSE",
@@ -156,8 +156,8 @@
     },
     {
       "ruta": "estudio/tools/generar_informes.py",
-      "sha256": "192312519ea2036b9c23c1cf480d152fa80e847d6d0d9dd038eed155db9ff93d",
-      "bytes": 26342
+      "sha256": "4961c25504f44a390d76e62815122c00ea01367874cf1c2540e39c5cfaa38acf",
+      "bytes": 26746
     },
     {
       "ruta": "estudio/tools/requirements-informes.txt",
@@ -166,13 +166,15 @@
     },
     {
       "ruta": "output/pdf/actividad_1_desarrollo.pdf",
-      "sha256": "18bd53ac296517c0bc058c82fa615c53b55438d6c31d8a5f0fa8c1a9a7d1ff87",
-      "bytes": 407106
+      "sha256": "1adae7e4dc9b962314e28783e6450b5a384014ceb060fe9db3c3477d42c3c156",
+      "bytes": 408025
     },
     {
       "ruta": "output/pdf/actividad_2_pruebas.pdf",
-      "sha256": "a04e459976fc9a6910ae8719b8800ac9c192a9c49031cfb67b2efaf4e04e02b2",
-      "bytes": 154007
+      "sha256": "fb0d38532c7c1c8037cc0b60b73e5563fc0fdb296268cd69c1fa468b9858c987",
+      "bytes": 154931
     }
-  ]
+  ],
+  "alumno": "Juan Pablo Arcos Merchan",
+  "asignatura": "Generalización de Código de Automatización en Desarrollo de Software con IA"
 }

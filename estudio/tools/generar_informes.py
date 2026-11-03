@@ -94,9 +94,16 @@ def footer(canvas, doc):
 
 
 def build(name, title, story):
+    cover = [Spacer(1, 55), p('UNIR', 'SmallCustom'),
+        p(title, 'TitleCustom'), Spacer(1, 38),
+        p('Asignatura', 'SubCustom'),
+        p('Generalización de Código de Automatización en Desarrollo de Software con IA'),
+        Spacer(1, 20), p('Datos del alumno', 'SubCustom'),
+        p('Juan Pablo Arcos Merchan'), Spacer(1, 20),
+        p('Fecha', 'SubCustom'), p('03/11/2026'), PageBreak()]
     doc = SimpleDocTemplate(str(OUT / name), pagesize=A4, rightMargin=48, leftMargin=48,
-        topMargin=42, bottomMargin=48, title=title, author='Proyecto Estudio con asistencia de IA')
-    doc.build(story, onFirstPage=footer, onLaterPages=footer)
+        topMargin=42, bottomMargin=48, title=title, author='Juan Pablo Arcos Merchan')
+    doc.build(cover + story, onFirstPage=footer, onLaterPages=footer)
 
 
 def activity_one():
