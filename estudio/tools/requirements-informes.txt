@@ -1,0 +1,3 @@
+# Solo para regenerar los informes, no para utilizar la aplicación.
+reportlab>=4,<5
+Pillow>=11,<13

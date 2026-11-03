@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Entorno local y datos personales del gestor
+.tools/
+estudio/data/
+tmp/

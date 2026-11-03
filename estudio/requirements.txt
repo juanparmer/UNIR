@@ -1,0 +1,2 @@
+# Aplicación y pruebas unitarias/de integración: sin paquetes externos.
+# Python 3.11 o posterior. sqlite3, http.server y unittest incluidos en Python.

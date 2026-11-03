@@ -1,0 +1,178 @@
+{
+  "fecha": "2026-11-03",
+  "aplicacion": "Estudio",
+  "asistente": "Codex",
+  "pruebas_correctas": 42,
+  "archivos": [
+    {
+      "ruta": "README.md",
+      "sha256": "e02022d19c47c5aa0e273fc4bbf22aed6008f6c8824879e9a23c3887eedad9c0",
+      "bytes": 308
+    },
+    {
+      "ruta": "ENTREGA.md",
+      "sha256": "6a0ff61120172e8901221eb277315fc0fb9f3fc4e30dfa8924cefcdf8371bd34",
+      "bytes": 1467
+    },
+    {
+      "ruta": "LICENSE",
+      "sha256": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+      "bytes": 11558
+    },
+    {
+      "ruta": "estudio/app.py",
+      "sha256": "be0a654e03cbe8a20e25afb0b433149b7468c55d00244089ce555bf873325f5e",
+      "bytes": 9277
+    },
+    {
+      "ruta": "estudio/iniciar.cmd",
+      "sha256": "bd6959f299626d539b443a4d51f64ab7d294ab267aff8d56fbae235c46153cb2",
+      "bytes": 479
+    },
+    {
+      "ruta": "estudio/README.md",
+      "sha256": "e01941349893a0b5f64bdd5e6787b53ab6d0f51979501222a6a7ed2e165672c1",
+      "bytes": 4993
+    },
+    {
+      "ruta": "estudio/requirements-dev.txt",
+      "sha256": "07d261387f0bbe6cbf4d7f78cab93c3ee9219d71fcb52f7e60724f0b172600e2",
+      "bytes": 83
+    },
+    {
+      "ruta": "estudio/requirements.txt",
+      "sha256": "68599df350b3df80cf36ef5cc8017de51d521fa60a463afe3f214335992d172a",
+      "bytes": 154
+    },
+    {
+      "ruta": "estudio/run_tests.py",
+      "sha256": "729a29bf81adeb0780be11012e236616c55d2899709b9c09c4170b5237312fde",
+      "bytes": 1587
+    },
+    {
+      "ruta": "estudio/documentacion/interacciones.md",
+      "sha256": "06523cf5a687a23d293286eaa585caf4a55e311fb9ac6eb50330f9d520e2f2aa",
+      "bytes": 2711
+    },
+    {
+      "ruta": "estudio/documentacion/plan_pruebas.md",
+      "sha256": "f75c54fe0c3dd4507eb12427992ffc2b2f4ce9da820aa2423739c66845615af3",
+      "bytes": 1962
+    },
+    {
+      "ruta": "estudio/documentacion/proyecto_inicial.md",
+      "sha256": "547bdf4d6bcfb850aa5968cae01266054bc8b1afaab8631cc4ed4b213b47e852",
+      "bytes": 2050
+    },
+    {
+      "ruta": "estudio/evidencias/01_tablero.png",
+      "sha256": "06b174660fd90d36cca7b7100713420d695ed0bfa485d62efce05d1a334e4ac2",
+      "bytes": 92890
+    },
+    {
+      "ruta": "estudio/evidencias/02_edicion.png",
+      "sha256": "9149af6f1ebf2695b402dd0840ec1096d65790751469820967a230f754405abe",
+      "bytes": 159890
+    },
+    {
+      "ruta": "estudio/evidencias/03_movil.png",
+      "sha256": "b2c64578bfe476b4785cfb08fc705e2a9cf724347ac167f123e2678a893248f2",
+      "bytes": 71610
+    },
+    {
+      "ruta": "estudio/evidencias/04_resultados.png",
+      "sha256": "a8b95feb72c213daa264d68fca45bfaa0f5fea0c908557fff51d0ed76b9f9bad",
+      "bytes": 120891
+    },
+    {
+      "ruta": "estudio/evidencias/05_fuera_de_plazo.png",
+      "sha256": "41c8e42afa956307fcd358fb351b930eb170b72dcdb08ff6c2796ce194e0b690",
+      "bytes": 67267
+    },
+    {
+      "ruta": "estudio/evidencias/interfaz.log",
+      "sha256": "a55cf4869a02c101d4aa17fe4f54cb302414cb0356eee69df58d8010157d5dd9",
+      "bytes": 1168
+    },
+    {
+      "ruta": "estudio/evidencias/primera_ejecucion.log",
+      "sha256": "c2cdd7ee60cbf0e5a1dbaf01cdb64febe97bd61bf234ef4e7fcff3c9bbce38af",
+      "bytes": 25918
+    },
+    {
+      "ruta": "estudio/evidencias/primer_resultado.json",
+      "sha256": "e1172fde95d2d38b692151e25eb7929a726f6ad255bd30bea0b89a0e568ca2b1",
+      "bytes": 148
+    },
+    {
+      "ruta": "estudio/evidencias/pruebas.log",
+      "sha256": "32f781a1160475fe8e20a84f0e66ba59259d967a83fab0131fe1205b3c89949c",
+      "bytes": 2874
+    },
+    {
+      "ruta": "estudio/evidencias/resultado.json",
+      "sha256": "e915065de4de449a70142fa830c80a72d3107616cd10b865f4aff3098bcb7cf0",
+      "bytes": 146
+    },
+    {
+      "ruta": "estudio/evidencias/resultado_interfaz.json",
+      "sha256": "ee8d0f12b560e48b2b7dbaed743c6435c50553cc19ef375151e2b5be2fd57697",
+      "bytes": 167
+    },
+    {
+      "ruta": "estudio/evidencias/resultado_interfaz_antes_del_filtro.json",
+      "sha256": "c74962a7945bf26d79ba79bf30d270f7dcaa3e321a1440cb0fee11010c964008",
+      "bytes": 167
+    },
+    {
+      "ruta": "estudio/static/app.js",
+      "sha256": "837171e7f26d9677dee3ea3cff3e4ea2dcb0abaea8b0a165cbe2cb0bbf1d191c",
+      "bytes": 6234
+    },
+    {
+      "ruta": "estudio/static/index.html",
+      "sha256": "3b13ecfc36044dc6f00861c899e186580a42fe84aede3bacb8e3bfeee632b43c",
+      "bytes": 4458
+    },
+    {
+      "ruta": "estudio/static/styles.css",
+      "sha256": "02dde95d4e3ad6186fcd6188369801a8eb8d854c8ce9c93f0c506d98dd43ee70",
+      "bytes": 7991
+    },
+    {
+      "ruta": "estudio/tests/browser_checks.py",
+      "sha256": "c6c7af727db2e74831424bedc4a9fd1a59666af509ecce3a0e63cd2a96ef3726",
+      "bytes": 13128
+    },
+    {
+      "ruta": "estudio/tests/test_app.py",
+      "sha256": "a0ec8400473f2ef42f533cd0554c669ba1deb041b1d8a8ac018d5cac9d41b0f5",
+      "bytes": 10346
+    },
+    {
+      "ruta": "estudio/tests/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "ruta": "estudio/tools/generar_informes.py",
+      "sha256": "192312519ea2036b9c23c1cf480d152fa80e847d6d0d9dd038eed155db9ff93d",
+      "bytes": 26342
+    },
+    {
+      "ruta": "estudio/tools/requirements-informes.txt",
+      "sha256": "06210cd04d6bc08c1217f6d399137b82c1064295353b4b8eb5f6d9ad65c75740",
+      "bytes": 100
+    },
+    {
+      "ruta": "output/pdf/actividad_1_desarrollo.pdf",
+      "sha256": "18bd53ac296517c0bc058c82fa615c53b55438d6c31d8a5f0fa8c1a9a7d1ff87",
+      "bytes": 407106
+    },
+    {
+      "ruta": "output/pdf/actividad_2_pruebas.pdf",
+      "sha256": "a04e459976fc9a6910ae8719b8800ac9c192a9c49031cfb67b2efaf4e04e02b2",
+      "bytes": 154007
+    }
+  ]
+}
